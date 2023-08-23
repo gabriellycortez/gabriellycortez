@@ -1,9 +1,7 @@
 ## Olá, eu sou Yasmim Gabrielly 🦋
 
 - 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando HTML5 e CSS
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellycortez&show_icons=true&bg_color=00000000)
+- 🌱 Estudando HTML5 e CSS 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
