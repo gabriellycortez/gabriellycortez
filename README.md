@@ -1,9 +1,9 @@
 ## Olá, eu sou Yasmim Gabrielly 🦋
 
 - Desenvolvedora front-end
-- Graduanda de Licenciatura em Infomática - IFRN
-- Estágiaria da OnixxSistemas
-- Estudando na Alura  
+- Licenciada em Infomática - IFRN
+- Desenvolvedora da OnixxSistemas
+- Professora de Informática  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
